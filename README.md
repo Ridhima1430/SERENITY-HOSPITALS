@@ -123,11 +123,3 @@ BILLING AMOUNT
 ![Screenshot 2024-12-29 191226](https://github.com/user-attachments/assets/9f3bc0a2-42cb-485a-9654-9849b42a734f)
 
 
-Future Scope
-
-- Integrate real-time monitoring for better decision-making.
-- Implement predictive analytics for patient trends
-- Enhance user experience through automated reporting and dashboards.
-
-
-
