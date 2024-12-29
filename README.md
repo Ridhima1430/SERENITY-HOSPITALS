@@ -95,8 +95,39 @@ Insights
 - Highest traffic in the OPD and Emergency departments.
 - Low satisfaction scores in the billing and registration process.
 
+Snapshots
+
+1. Patient ID Scroll View
+
+Demonstrates the scrollable list of all Patient IDs for detailed selection.
+
+![Screenshot 2024-12-29 191316](https://github.com/user-attachments/assets/6917b2df-0ed2-4f22-b0e2-fc605c7cfd34)
+
+2. Dashboard Overview
+
+Displays the main dashboard layout summarizing key metrics and visuals.
+
+![Screenshot 2024-12-29 191123](https://github.com/user-attachments/assets/f86a1c48-c8d1-4e80-9dfd-74868da85efe)
+
+3. Navigation Elements
+
+Navigation to " "Admit Date", "Discharge Date", and"Billing Amount using interactive buttons.
+
+ADMIT DATE
+![Screenshot 2024-12-29 191213](https://github.com/user-attachments/assets/c7bc2f5d-95a8-4bb7-8347-c631e77b8b1d)
+
+DISCHARGE DATE
+![Screenshot 2024-12-29 191302](https://github.com/user-attachments/assets/f5849e52-6a17-4744-ba0f-e74d43eea479)
+
+BILLING AMOUNT
+![Screenshot 2024-12-29 191226](https://github.com/user-attachments/assets/9f3bc0a2-42cb-485a-9654-9849b42a734f)
+
+
 Future Scope
 
 - Integrate real-time monitoring for better decision-making.
-- Implement predictive analytics for patient trends and resource allocation.
+- Implement predictive analytics for patient trends
 - Enhance user experience through automated reporting and dashboards.
+
+
+
